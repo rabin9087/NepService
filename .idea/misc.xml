@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3635" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/activity_forget_password.xml" value="0.22" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/activity_main.xml" value="0.35144927536231885" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/card_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/content_home.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_accommodations.xml" value="0.28651685393258425" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_acommodations.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_enter_o_t_p.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_forget.xml" value="0.25" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_grocery_stores.xml" value="0.2836676217765043" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_header_menus.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_hme_page.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_home_page.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_jobs.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_log_in.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_my_post.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_post_new_accommodation.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_post_new_grocery_store.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_post_new_grocery_stores.xml" value="0.2836676217765043" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_post_new_jobs.xml" value="0.2632978723404255" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_post_new_restaurant.xml" value="0.27808988764044945" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_postnewgrocerystore.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_postnewrestaurant.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_restaurants.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_search.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_search_data.xml" value="0.33" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/fragment_update_password.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/header_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/home_page_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/listview_grocerystore.xml" value="0.75" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/recycleradapter.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/recycleradapter_grocerystore.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/layout/what.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/menu/home_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/menu/menu.xml" value="0.3625" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/menu/search_menu.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3515" />
+        <entry key="..\:/Users/rabin/AndroidStudioProjects/NepService/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

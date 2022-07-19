@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NepService</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">Home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Register">Register</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Password">Password</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="PHONE_NUMBER">PHONE NUMBER</string>
+    <string name="register">Register</string>
+    <string name="got_an_account">Got an account?</string>
+    <string name="todo">TODO</string>
+
+    <string name="jobs">Job</string>
+    <string name="accommodationImageButton">Accommodation</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="home_menu">Home</string>
+    <string name="my_post_menu">My Post</string>
+    <string name="settings_menu">Settings</string>
+    <string name="log_out_menu">Log Out</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="post">Post</string>
+    <string name="nsw">NSW</string>
+    <string name="vic">VIC</string>
+    <string name="sa">SA</string>
+    <string name="wa">WA</string>
+    <string name="qld">QLD</string>
+    <string name="all">All</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_phone_number">Enter Phone number</string>
+</resources>
