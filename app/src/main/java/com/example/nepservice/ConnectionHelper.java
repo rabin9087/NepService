@@ -14,7 +14,7 @@ public class ConnectionHelper {
     String ConnectionURL;
     @SuppressLint("NewApi")
     public Connection connectionClass(){
-        //ip= "192.168.20.11";
+        ip= "192.168.20.7";
         databaseName = "NepService";
         userName="sa";
         password="Jackson@9087";
@@ -24,7 +24,9 @@ public class ConnectionHelper {
         policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
 
-        ConnectionURL ="jdbc:jtds:sqlserver://rabin9087;databaseName=NepService";
+     //   ConnectionURL ="jdbc:jtds:sqlserver://"+ip+';'+'databaseName =' +databaseName;
+
+        ConnectionURL ="jdbc:jtds:sqlserver://192.168.20.7;databaseName=NepService";
 
         try {
             Class.forName("net.sourceforge.jtds.jdbc.Driver");
